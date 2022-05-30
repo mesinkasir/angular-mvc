@@ -1,0 +1,9 @@
+<nav class="nav p-1 justify-content-center fixed-top border-bottom border-danger bg-white bg-opacity-50" >
+  <a
+    routerLink="{{ nav.menuurl }}"
+    class="nav-link text-light"
+    *ngFor="let nav of Navs"
+  >
+    {{ nav.menu }}
+  </a>
+</nav>

@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap');
+html, body {
+    font-family: 'Comfortaa', cursive;
+}
+nav , .navo {
+	background-image: url("https://media.istockphoto.com/vectors/abstract-red-vector-background-with-stripes-can-be-used-for-cover-vector-id1302642699?k=20&m=1302642699&s=612x612&w=0&h=lqOCls4mdEtTcSyR0BH9A-lVKFSWM--moFbv4ZrUq9Y=");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center; 
+	background-size: cover;
+	border-radius: 1px 1px 80px 80px;
+}
+.title {
+	color: red;
+}
+footer {
+	background-image: url("https://media.istockphoto.com/vectors/abstract-red-vector-background-with-stripes-can-be-used-for-cover-vector-id1302642699?k=20&m=1302642699&s=612x612&w=0&h=lqOCls4mdEtTcSyR0BH9A-lVKFSWM--moFbv4ZrUq9Y=");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center; 
+	background-size: cover;
+	text-align: center;
+	color: white;
+	padding-bottom: 10px;
+	padding-top: 15px;
+	border-radius: 80px 80px 1px 1px;
+}
+.ng {
+	background-image: url("https://t3.ftcdn.net/jpg/03/29/14/46/360_F_329144637_fLag9jYbaYQwo3apYr8OEzTrdUWWwXCR.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center; 
+	background-size: cover;
+}
+.cardos {
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center; 
+	background-size: cover;
+	border-radius: 80px 80px 80px 80px;
+}
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
