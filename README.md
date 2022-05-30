@@ -13,7 +13,7 @@ doc : [https://www.hockeycomputindo.com/2022/05/angular-mvc-free-download-source
 
 `ng build`
 
-`push dist folder`
+`push dist/mvc folder`
 
 
 doc : [https://www.hockeycomputindo.com/2022/05/angular-mvc-free-download-source-code.html](https://www.hockeycomputindo.com/2022/05/angular-mvc-free-download-source-code.html)
