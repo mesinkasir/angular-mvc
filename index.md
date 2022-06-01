@@ -4,6 +4,8 @@ doc : [https://www.hockeycomputindo.com/2022/05/angular-mvc-free-download-source
 
 demo [https://angularios.web.app/](https://angularios.web.app/)
 
+video [https://youtu.be/hg8WKeVM7zU](https://youtu.be/hg8WKeVM7zU)
+
 --------------------------------
 
 ![angular mvc free download gratis source code](ng.png)
@@ -24,3 +26,6 @@ demo [https://angularios.web.app/](https://angularios.web.app/)
 
 
 doc : [https://www.hockeycomputindo.com/2022/05/angular-mvc-free-download-source-code.html](https://www.hockeycomputindo.com/2022/05/angular-mvc-free-download-source-code.html)
+
+
+video [https://youtu.be/hg8WKeVM7zU](https://youtu.be/hg8WKeVM7zU)
