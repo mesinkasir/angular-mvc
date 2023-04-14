@@ -10,9 +10,9 @@ export class Contact{
   content = `
 			Silahkan hubungi kami untuk kebutuhan pengembangan situs modern dengan menggunakan angular , buat website modern dengan angular bersama kami.`;  
   phone = '+628955339403223';
-  wa = '+6285646104747';
+  wa = '+62895339403223';
   tel = 'tel:+62895339403223';
-  was = 'https://wa.me/6285646104747';
+  was = 'https://wa.me/62895339403223';
   mail = 'axcora@gmail.com';
   email = 'mailto:axcora@gmail.com';
 }
